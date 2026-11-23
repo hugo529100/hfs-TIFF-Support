@@ -4,7 +4,6 @@ exports.description = "TIFF/TIF cached server-side support for HFS - converts TI
 exports.version = 1.3
 exports.apiRequired = 12.6
 exports.repo = "hugo529100/hfs-TIFF-Support"
-
 exports.preview = []
 
 
