@@ -3,7 +3,8 @@
 exports.description = "TIFF/TIF cached server-side support for HFS - converts TIFF to JPG on the fly for preview with Show and generates thumbnails"
 exports.version = 1.3
 exports.apiRequired = 12.6
-exports.repo = "Hug3O/TIFF-Support"
+exports.repo = "hugo529100/hfs-TIFF-Support"
+
 exports.preview = []
 
 
